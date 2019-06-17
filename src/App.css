@@ -18,7 +18,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.Cabecera{
+background-color: #d6edf3;
+height: 75px;
+display: flex;
 
+}
 .App-link {
   color: #61dafb;
 }
